@@ -1,9 +1,8 @@
-//N;2
+//N:2
 // import java.util.Arrays; 
 
 // public class insertionSort 
 // { 
-
 // 	static void insertionSortRecursive(int arr[], int n) 
 // 	{ 
 // 		if (n <= 1) 
